@@ -116,18 +116,17 @@ Execute the program using runserver command.
 <tr>
 <td align="center">6.</td>
 <td align="center">19PH214</td>	
-<td>PHYSICS FOR QUANTUM COMPUTING</td>
+<td>PHYSICS FOR QUANTUM COMPUTING (PHY)</td>
 </tr>
 </table>
 </body>
 </html>
-
 ```
 
 
 ## OUTPUT
 
-![Alt text](<Screenshot 2023-11-06 220333.png>)
+![Alt text](<Screenshot (8).png>)
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
